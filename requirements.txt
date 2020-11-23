@@ -6,4 +6,3 @@ gunicorn
 dnspython
 flask-dance
 blinker
-oauthlib
